@@ -1,0 +1,45 @@
+body {
+    background-color: snow;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter: blur(5px);
+}
+
+.shinu {
+    padding: 103px;
+}
+
+.sigma {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 62px;
+}
+
+.moyaii {
+    width: 300px;
+}
+
+p {
+    font-weight: 900;
+}
+
+.bruh {
+    display: flex;
+    justify-content: right;
+}
+
+img {
+    border-radius: 21px;
+    height: 300px;
+    width: 300px;
+}
+
+a {
+    color: cornflowerblue;
+    font-weight: 900;
+    font-size: larger;
+}
